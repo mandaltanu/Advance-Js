@@ -38,6 +38,3 @@
 // a.forEach((item)=>{
 //     console.log(item)
 // })
-
-
-// skdsjnkonvfv,m 
